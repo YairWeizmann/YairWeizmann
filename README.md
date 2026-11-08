@@ -1,5 +1,5 @@
 
-# Hi, I'm Yair Weizman
+# Yair Weizman
 
 ### Software Engineering Student | Backend Development | Java & Spring Boot
 
